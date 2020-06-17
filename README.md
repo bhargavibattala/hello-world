@@ -1,7 +1,7 @@
 # hello-world
 Let's learn.
 
-Hello fellow homosapiens
+Hello fellow sapiens
 I am Bhargavi
-Jack of all
-Master of one
+jack of all
+master of many
